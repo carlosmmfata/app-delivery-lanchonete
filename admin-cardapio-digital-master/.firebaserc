@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "appdelivery-cardapio-digital"
+  },
+    "targets": {
+    "appdelivery-cardapio-digital": {
+      "hosting": {
+        "admin-cd-appdelivery": [
+          "admin-cd-appdelivery"
+        ]
+      }
+    }
+  }
+}
